@@ -11,7 +11,7 @@ def home():
     </head>
     <body style="font-family: Arial; text-align: center; margin-top: 100px;">
         <h1>Welcome to Abhishek Pal's Website</h1>
-        <h2>Hi, I'm Abhishek, a DevOps Engineer passionate about automating software delivery and managing cloud infrastructure. I work with Git, GitHub, Jenkins, Docker, Kubernetes, AWS, Linux, and GitHub Actions to build reliable, scalable, and efficient CI/CD pipelines and cloud-native applications.</h2>
+        <h2>Hi, I'm Abhishek, a DevOps Engineer passionate about automating software delivery and managing cloud infrastructure. I work with Git, GitHub, Jenkins, Docker, Kubernetes, AWS, Linux, and GitHub Actions to build reliable, scalable, and efficient CI/CD pipelines and cloud-native applications</h2>
         <p>Python | AWS | Docker | Kubernetes | Jenkins</p>
     </body>
     </html>
