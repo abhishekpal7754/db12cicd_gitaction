@@ -11,7 +11,7 @@ def home():
     </head>
     <body style="font-family: Arial; text-align: center; margin-top: 100px;">
         <h1>Welcome to Abhishek Pal's Website</h1>
-        <h2>DevOps Engineer0</h2>
+        <h2>DevOps Engineer-1</h2>
         <p>Python | AWS | Docker | Kubernetes | Jenkins</p>
     </body>
     </html>
