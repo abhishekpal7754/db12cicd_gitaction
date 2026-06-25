@@ -44,7 +44,7 @@ def home():
     <body>
         <div class="container">
             <h1>Welcome to Abhishek Pal's Portfolio</h1>
-            <h2>DevOps Engineer</h2>
+            <h2>DevOps Engineer IT</h2>
 
             <p>
                 Hi, I'm <b>Abhishek Pal</b>, a passionate DevOps Engineer
